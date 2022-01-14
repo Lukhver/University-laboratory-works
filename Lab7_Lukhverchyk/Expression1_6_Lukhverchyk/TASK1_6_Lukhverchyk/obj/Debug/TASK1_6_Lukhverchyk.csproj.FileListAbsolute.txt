@@ -1,0 +1,20 @@
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.exe.config
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.Form1.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.Properties.Resources.resources
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.GenerateResource.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.exe.config
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\bin\Debug\TASK1_6_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.Form1.resources
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.Properties.Resources.resources
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.GenerateResource.cache
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\IMPORTANT\STUDY\C#\PROGRAMACH\Lab7_Lukhverchyk\Expression1_6_Lukhverchyk\TASK1_6_Lukhverchyk\obj\Debug\TASK1_6_Lukhverchyk.pdb

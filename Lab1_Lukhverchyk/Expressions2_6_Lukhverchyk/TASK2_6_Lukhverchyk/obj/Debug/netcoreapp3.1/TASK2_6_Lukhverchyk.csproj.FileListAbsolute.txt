@@ -1,0 +1,28 @@
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.exe
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.deps.json
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.runtimeconfig.json
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.runtimeconfig.dev.json
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.dll
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.pdb
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.AssemblyInfoInputs.cache
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.AssemblyInfo.cs
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.dll
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.pdb
+C:\Users\SuperMan\source\repos\Expression_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.genruntimeconfig.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.exe
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.deps.json
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.runtimeconfig.json
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.runtimeconfig.dev.json
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.dll
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\bin\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.csproj.AssemblyReference.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.AssemblyInfoInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.AssemblyInfo.cs
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.csproj.CoreCompileInputs.cache
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.dll
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.pdb
+C:\Users\SuperMan\Desktop\УЧОБА ДОННУ + МАЙНОР\C#\PROGRAMACH\Lab1_Lukhverchyk\Expressions2_6_Lukhverchyk\TASK2_6_Lukhverchyk\obj\Debug\netcoreapp3.1\TASK2_6_Lukhverchyk.genruntimeconfig.cache
